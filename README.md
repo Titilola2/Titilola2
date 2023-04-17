@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Titilola2
-- 👀 I’m interested in Frontend web development projects
+- 👀 I’m interested in fullstack web development projects
 - 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on any frontend web development project
+- 💞️ I’m looking to collaborate on any fullstack web development project
 - 📫 How to reach me 
 
 <!---
